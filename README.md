@@ -4,13 +4,6 @@ This repository contains an extensive collection of machine learning notebooks d
 
 Each module focuses on both theoretical understanding and practical implementation, with detailed code, visualizations, and experiments on real-world datasets and also includes real time projects. The repository serves as both a learning resource and a reference for core machine learning concepts.
 
-# FMML – Projects and Labs
-
-This repository contains a comprehensive collection of machine learning notebooks developed as part of academic coursework and hands-on experimentation. It spans foundational mathematical concepts to advanced machine learning and deep learning techniques, with a strong focus on implementation, visualization, and practical understanding.
-
-The goal of this repository is to document a structured learning journey through machine learning, combining theoretical concepts with real-world datasets and algorithmic experimentation.
-
----
 
 ## Repository Structure
 
