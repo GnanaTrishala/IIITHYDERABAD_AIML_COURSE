@@ -4,6 +4,17 @@ This repository contains an extensive collection of machine learning notebooks d
 
 Each module focuses on both theoretical understanding and practical implementation, with detailed code, visualizations, and experiments on real-world datasets and also includes real time projects. The repository serves as both a learning resource and a reference for core machine learning concepts.
 
+# FMML – Projects and Labs
+
+This repository contains a comprehensive collection of machine learning notebooks developed as part of academic coursework and hands-on experimentation. It spans foundational mathematical concepts to advanced machine learning and deep learning techniques, with a strong focus on implementation, visualization, and practical understanding.
+
+The goal of this repository is to document a structured learning journey through machine learning, combining theoretical concepts with real-world datasets and algorithmic experimentation.
+
+---
+
+## Repository Structure
+
+```bash
 FMML_PROJECTS_AND_LABS/
 │
 ├── Module 0 – Mathematical Foundations
@@ -16,15 +27,15 @@ FMML_PROJECTS_AND_LABS/
 │   ├── ML terminology and evaluation metrics
 │
 ├── Module 2 – Visualization & Dimensionality Reduction
-│   ├── Basic plotting and data visualization
+│   ├── Data visualization notebooks
 │   ├── PCA implementation
 │   ├── Manifold learning techniques
-│   ├── Applied project with real datasets
+│   ├── Applied dataset analysis
 │
 ├── Module 3 – K-Nearest Neighbors (KNN)
 │   ├── Distance metrics and theory
-│   ├── KNN for classification
-│   ├── KNN implementation from scratch
+│   ├── KNN implementation
+│   ├── KNN from scratch
 │   ├── Text classification using KNN
 │   ├── Diabetes prediction project
 │
@@ -55,7 +66,7 @@ FMML_PROJECTS_AND_LABS/
 │   ├── reviews.csv
 │   ├── sequences.fasta
 │   ├── car_evaluation.csv
-│   └── additional supporting datasets
+│   └── additional datasets
 │
 └── README.md
 
@@ -292,18 +303,7 @@ This repository represents a structured journey through machine learning, combin
 
 ```
 
----
 
-### ⚡ What you do now:
-1. Copy everything above  
-2. Paste into `README.md`  
-3. Replace:
-```
-
-<https://github.com/GnanaTrishala/IIITHYDERABAD_AIML_COURSE/>
-```
-with your actual GitHub link  
-4. Click **Preview** → then **Commit**
 
 
 
